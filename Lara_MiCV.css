@@ -1,0 +1,29 @@
+*
+{
+    background-color:rgb(236, 231, 231);
+}
+
+ul
+{
+    color: rgb(0, 0, 0);
+}
+
+.sinvineta
+{
+    list-style: none;
+}
+
+.name
+{
+    width: 300px;
+    border-radius: 10px;
+    display: block; /*Esta línea y margin: auto; es para centrar la imagen*/
+    margin:auto;
+}
+
+.image-profile
+{
+    display: block;
+    margin: auto;
+    width: 100px;
+}
